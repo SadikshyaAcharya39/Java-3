@@ -50,8 +50,6 @@ public class Inst {
 
 
 
-
-
 //        inst.setInsId(2);
 //        inst.setInsName("Amir");
 //        inst.setAddress("Lalitpur");
